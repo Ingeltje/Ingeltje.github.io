@@ -7,7 +7,7 @@ title: Biohack Academy 2019
 
 This first day we reflected on what biohacking is and what the Biohack Academy stands for. We got an introduction to Sketchup for 3D design, which I do not intend to use since I prefer Fusion360 because it allows for parametric design. Per Staugaard (BVF Biosafety officer) taught us how to behave safely in the lab and showed us, using UV light, that even washing hands is not trivial and needs more attention than if everyday life:
 
-![](/images/UVlight.JPG width="200" "UVlight" )
+![](/images/UVlight.JPG  "UVlight" )
 
 ## My first blog post ever
 
