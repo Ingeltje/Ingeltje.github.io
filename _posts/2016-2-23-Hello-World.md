@@ -3,11 +3,11 @@ layout: post
 title: Biohack Academy 2019 
 ---
 
-# My first blog post ever
 
-## Subtitle
 
-I feel really blessed to have the opportunity to be part of [Biohack Academy 2019](https://waag.org/en/article/sixth-ibiohack-academy-planned-2019) that will take place in the next 10 weeks in this beautiful building in Asterdam: 
+## My first blog post ever
+
+I feel really blessed to have the opportunity to be part of [Biohack Academy 2019](https://waag.org/en/article/sixth-ibiohack-academy-planned-2019) that will take place in the next 10 weeks in this beautiful building in Amsterdam: 
 
 
 
