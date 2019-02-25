@@ -22,7 +22,7 @@ We also got an introduction to laser cutting, this week’s practical assignment
 ![](/images/Parametric%20Tube%20rack.png "Fusion360" )
 
  
-##  My first blog post ever
+##  Biohack Academy 2019: My first blog post ever
 
 I feel really blessed to have the opportunity to be part of the [6th Biohack Academy](https://waag.org/en/article/sixth-ibiohack-academy-planned-2019) that will take place in the next 10 weeks in this beautiful building in Amsterdam: 
 
