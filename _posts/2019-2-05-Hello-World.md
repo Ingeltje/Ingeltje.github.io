@@ -15,7 +15,7 @@ Each week we will build a device to use in a DIY lab. This week we built our fir
 
 In the lab we learned the basics of working sterile using alcohol to clean the working surface and a gas burner to create a sterile ”umbrella”.
 
-![](/images/photo 1.JPG  https://github.com/Ingeltje/Ingeltje.github.io/blob/master/images/Parametric%20Tube%20rack.png"Sterile Umbrella" )
+![](/images/photo%201.JPG "Sterile Umbrella" )
 
 We also got an introduction to laser cutting, this week’s practical assignment being to design and fabrication of a laser cut tube rack. I designed a parametric rack in Fusion 360, the parameters being the number of rows, number of columns and the tube size per row. 
 
