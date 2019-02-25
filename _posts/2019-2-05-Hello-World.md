@@ -11,7 +11,7 @@ This first day we reflected on what biohacking is and what the Biohack Academy s
 
 Each week we will build a device to use in a DIY lab. This week we built our first lab device: a sterile hood https://github.com/BioHackAcademy/BHA_SterileHood . Again: quite a challenge, in particular because Ikea changed the design of the extractor fan we used as a primary filter!
 
-![](/images/IMG_0839 .JPG  "Sterile Hood" )
+![](/images/IMG_0839.JPG  "Sterile Hood" )
 
 In the lab we learned the basics of working sterile using alcohol to clean the working surface and a gas burner to create a sterile ”umbrella”.
 
