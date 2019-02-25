@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hallo Wereld
+title: Hallo Mooie Wereld
 ---
 
 # Title
