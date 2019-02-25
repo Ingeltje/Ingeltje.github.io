@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Biohack Academy 2019 – My first blog post ever
+title: Biohack Academy 2019 
 ---
 
-# Title
+# My first blog post ever
 
 ## Subtitle
 
