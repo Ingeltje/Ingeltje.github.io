@@ -15,7 +15,7 @@ I feel really blessed to have the opportunity to be part of [Biohack Academy 201
 ![](/images/IMG_1357.JPG "Waag, Amsterdam" )
 
 
-In this blog I will document what I learn and discover during the next ten weeks as a newbie biohacker. 
+In this blog for the next 10 weeks I will document what I learn and discover as a newbie biohacker. 
 To start with: I will have to learn how to post on this blog!
 
 **bold**
