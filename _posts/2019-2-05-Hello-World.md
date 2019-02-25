@@ -9,7 +9,7 @@ This first day we reflected on what biohacking is and what the Biohack Academy s
 
 ![](/images/UVlight.JPG  "UVlight" )
 
-Each week we will build a device to use in a DIY lab. This week we built our first lab device: a sterile hood https://github.com/BioHackAcademy/BHA_SterileHood . Again: quite a challenge, in particular because Ikea changed the design of the extractor fan we used as a primary filter!
+Each week we will build a device to use in a DIY lab. This week we built our first lab device: a [sterile hood] (https://github.com/BioHackAcademy/BHA_SterileHood) . Again: quite a challenge, in particular because Ikea changed the design of the extractor fan we used as a primary filter!
 
 ![](/images/IMG_0839.JPG  "Sterile Hood" )
 
@@ -17,7 +17,7 @@ In the lab we learned the basics of working sterile using alcohol to clean the w
 
 ![](/images/photo%201.JPG "Sterile Umbrella" )
 
-We also got an introduction to laser cutting, this week’s practical assignment being to design and fabrication of a laser cut tube rack. I designed a parametric rack in Fusion 360, the parameters being the number of rows, number of columns and the tube size per row. 
+We also got an introduction to laser cutting, this week’s practical assignment being the design and fabrication of a laser cut tube rack. I designed a parametric rack in Fusion 360, the parameters being the number of rows, number of columns and the tube size per row. 
 
 ![](/images/Parametric%20Tube%20rack.png "Fusion360" )
 
