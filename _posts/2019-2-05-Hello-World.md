@@ -1,9 +1,9 @@
 ---
 layout: post
-
+title: Biohack Academy 2019
 ---
 
-## Biohack Academy 2019: Week 1
+##  Week 1
 
 This first day we reflected on what biohacking is and what the Biohack Academy stands for. We got an introduction to Sketchup for 3D design, which I do not intend to use since I prefer Fusion360 because it allows for parametric design. Per Staugaard (BVF Biosafety officer) taught us how to behave safely in the lab and showed us, using UV light, that even washing hands is not trivial and needs more attention than if everyday life:
 
@@ -22,7 +22,7 @@ We also got an introduction to laser cutting, this week’s practical assignment
 ![](/images/Parametric%20Tube%20rack.png "Fusion360" )
 
  
-## Biohack Academy 2019: My first blog post ever
+##  My first blog post ever
 
 I feel really blessed to have the opportunity to be part of the [6th Biohack Academy](https://waag.org/en/article/sixth-ibiohack-academy-planned-2019) that will take place in the next 10 weeks in this beautiful building in Amsterdam: 
 
