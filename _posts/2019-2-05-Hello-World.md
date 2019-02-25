@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biohack Academy 2019 
+
 ---
 
 ## Biohack Academy 2019: Week 1
