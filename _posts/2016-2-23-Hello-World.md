@@ -16,7 +16,7 @@ I feel really blessed to have the opportunity to be part of [Biohack Academy 201
 
 
 In this blog I will document what I learn and discover as a newbie biohacker. 
-To start with: I will have to learn how to rotate a picture in this blog!
+To start with: I will have to learn how to resize and rotate a picture in this blog!
 
 
 
