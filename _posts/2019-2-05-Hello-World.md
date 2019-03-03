@@ -10,6 +10,18 @@ title: Biohack Academy 2019
 ![](/images/IMG_E1176.JPG  "MIN-MAX thermometer" )
 This week we got an introduction on microbiology and analog electronics. The assignment for electronics was to make a circuit with input and output. For this I revived an Arduino-device I designed for my [Non-Scientific Arctic Weather Station](https://www.facebook.com/inger.legue/posts/10155048045464335) in Ísafjörður, Iceland (2017):  a MIN-MAX thermometer including an LCD display.
 
+
+![](/images/IMG_E1176.JPG  "MIN-MAX thermometer" )
+This week we got an introduction on microbiology and analog electronics. The assignment for electronics was to make a circuit with input and output. For this I revived an Arduino-device I designed for my [Non-Scientific Arctic Weather Station](https://www.facebook.com/inger.legue/posts/10155048045464335) in Ísafjörður, Iceland (2017):  a MIN-MAX thermometer including an LCD display.
+
+
+![](/images/IMG_E1176.JPG  "MIN-MAX thermometer" )
+This week we got an introduction on microbiology and analog electronics. The assignment for electronics was to make a circuit with input and output. For this I revived an Arduino-device I designed for my [Non-Scientific Arctic Weather Station](https://www.facebook.com/inger.legue/posts/10155048045464335) in Ísafjörður, Iceland (2017):  a MIN-MAX thermometer including an LCD display.
+
+
+![](/images/IMG_E1176.JPG  "MIN-MAX thermometer" )
+This week we got an introduction on microbiology and analog electronics. The assignment for electronics was to make a circuit with input and output. For this I revived an Arduino-device I designed for my [Non-Scientific Arctic Weather Station](https://www.facebook.com/inger.legue/posts/10155048045464335) in Ísafjörður, Iceland (2017):  a MIN-MAX thermometer including an LCD display.
+
 ##  Week 1
 
 
