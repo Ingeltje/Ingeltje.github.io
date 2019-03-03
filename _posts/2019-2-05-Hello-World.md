@@ -10,7 +10,8 @@ title: Biohack Academy 2019
 
 This week we got an introduction on microbiology and analog electronics. The assignment for electronics was to make a circuit with input and output. For this I revived an Arduino-device I designed for my [Non-Scientific Arctic Weather Station](https://www.facebook.com/inger.legue/posts/10155048045464335) in Ísafjörður, Iceland (2017):  a MIN-MAX thermometer including an LCD display.
 
-![](images/Week2_Composite1.jpg "Stuff in a lab")
+
+![](/images/Week2_Composite1.jpg "Working sterile")
 
 In the lab we got an introduction on cultivating microbes. We learned about (a) nutrient agar and (b) agar plates, and about (c) incubators and (d) autoclaves, aka Ikea pressure cookers.
  
