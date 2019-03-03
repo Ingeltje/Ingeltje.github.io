@@ -5,9 +5,10 @@ title: Biohack Academy 2019
 
 ##  Week 1
 
-This first day we reflected on what biohacking is and what the Biohack Academy stands for. We got an introduction to Sketchup for 3D design, which I do not intend to use since I prefer Fusion360 because it allows for parametric design. Per Staugaard (BVF Biosafety officer) taught us how to behave safely in the lab and showed us, using UV light, that even washing hands is not trivial and needs more attention than if everyday life:
+
 
 ![](/images/UVlight.JPG  "UVlight" )
+This first day we reflected on what biohacking is and what the Biohack Academy stands for. We got an introduction to Sketchup for 3D design, which I do not intend to use since I prefer Fusion360 because it allows for parametric design. Per Staugaard (BVF Biosafety officer) taught us how to behave safely in the lab and showed us, using UV light, that even washing hands is not trivial and needs more attention than if everyday life.
 
 Each week we will build a device to use in a DIY lab. This week we built our first lab device: a [sterile hood](https://github.com/BioHackAcademy/BHA_SterileHood). Again: quite a challenge, in particular because Ikea changed the design of the extractor fan we used as a primary filter!
 
