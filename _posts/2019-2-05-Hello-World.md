@@ -3,6 +3,12 @@ layout: post
 title: Biohack Academy 2019
 ---
 
+##  Week 6
+
+![](/images/Combi%20Left%20and%20Right.jpg "DNA" )
+
+The result of a lot of steps: DNA visible!
+
 ##  Week 2
 
 
