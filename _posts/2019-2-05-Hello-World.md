@@ -2,6 +2,19 @@
 layout: post
 title: Biohack Academy 2019
 ---
+##  Week 10
+
+![](/images/Combi%20Left%20and%20Right.jpg "DNA" )
+
+The votes are in and counted! 
+Results:
+I think she will not do it and I also think she shouldn't do it: 0x
+I think she will not do it, but I think she just caan do i: 2x
+I think she will do it. but I think she shouldn't do it: 11x
+I think she will do it and I think she can just do it: 14x (amongst which one signed by GOD).
+Also one person noted she thinks I already did and one person added I should do it safely.
+Which - in case I decide to do it - I surely will do.
+I will keep you posted!
 
 ##  Week 6
 
