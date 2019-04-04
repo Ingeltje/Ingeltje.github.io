@@ -4,7 +4,7 @@ title: Biohack Academy 2019
 ---
 ##  Week 10
 
-![](/images/Combi%20Left%20and%20Right.jpg "DNA" )
+![](/images/IMG_2012.jpg "The Votes" )
 
 The votes are in and counted! 
 Results:
