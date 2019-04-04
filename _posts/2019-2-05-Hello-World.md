@@ -12,6 +12,7 @@ Results:
 2. I think she will not do it, but I think she just caan do i: 2x
 3. I think she will do it. but I think she shouldn't do it: 11x
 4. I think she will do it and I think she can just do it: 14x (amongst which one signed by GOD).
+
 Also one person noted she thinks I already did and one person added I should do it safely.
 Which - in case I decide to do it - I surely will do.
 I will keep you posted!
