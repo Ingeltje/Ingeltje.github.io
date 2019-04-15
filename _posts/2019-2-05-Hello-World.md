@@ -32,7 +32,7 @@ When Lucas Evers in his Week 3's lecture about Bio Art talked about Marion Laval
 
 In 1992 my brother John, suffering from aplastic anaemia as a therapy first got cells from pigs and horses and later a bone mare transplant of an anonymous East-German donor. My brother died from graft-versus-host disease, basically his own organs one by one being rejected by the graft bone mare. I was very confused at that time and was left with very basic questions about identity. Was my brother a chimera when he got the pig and horse cells? Later, was my brother killed by the allogeneic bone mare or was the remaining entity not my brother anymore? Are we basically our immune system? 
 
-As a personal side path I will document about these and other Biohack related questions in “And then there is” blog posts.  For one of the question I meanwhile found this answer: yes, my brother was a chimera! 
+As a personal side path I will document about these and other Biohack related questions in “And then there is this” blog posts.  For one of the question I meanwhile found this answer: yes, my brother was a chimera! 
 
 ![](/images/Week3-Chimera.png "My brother was a chimera")
 
@@ -45,8 +45,8 @@ This week we got a short introduction to molecular biology and a crash-course Ar
 
 ![](/images/Week3-Vierluik1.jpg "Isolation yoghurt")
 
-We learned how to make Ringer’s solution (a liquid simulating the isotonic solution in bodily fluids) and MRS Agar plates (a petri dish filled with an agar solutio with nutrients that once it is solidified can be used to culture microorganisms).  
-The agar plates were used for the isolation of yoghurt bacteria as found in plain yoghurt and Yakult. http://biohackacademy.github.io/bha6/class/3/isolation-of-yoghurt-bacteria/
+We learned how to make Ringer’s solution (a liquid simulating the isotonic solution in bodily fluids) and MRS Agar plates (a petri dish filled with agar and nutrients that - once it is solidified - can be used to culture microorganisms).  
+The agar plates were used for the [isolation of yoghurt bacteria](http://biohackacademy.github.io/bha6/class/3/isolation-of-yoghurt-bacteria/) as found in plain yoghurt and Yakult. 
 
 We also got a lecture by Lucas Evers about Bioart. Intrigued by the distinction we (= humans) make between inanimate material - plants – bacteria – vertibrates – other human beings, the work of [Spela Petric](https://www.spelapetric.org/) resonated most with my current questions. 
 
