@@ -42,7 +42,7 @@ As a personal side path I will document about these and other Biohack related qu
 
 This week we got a short introduction to molecular biology and a crash-course Arduino programming and digital electronics. In the lab we started isolating microbes ourselves. 
 
-![](/images/Week3-Vierluik1.jpg ""Isolation yoghurt"
+![](/images/Week3-Vierluik1.jpg ""Isolation yoghurt")
 
 We learned how to make Ringer’s solution (a liquid simulating the isotonic solution in bodily fluids) and MRS Agar plates (a petri dish filled with an agar solutio with nutrients that once it is solidified can be used to culture microorganisms).  
 The agar plates were used for the isolation of yoghurt bacteria as found in plain yoghurt and Yakult. http://biohackacademy.github.io/bha6/class/3/isolation-of-yoghurt-bacteria/
