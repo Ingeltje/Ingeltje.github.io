@@ -28,7 +28,7 @@ The result of a lot of steps: DNA visible!
 
 ![](/images/Week3-Marion.png "May the horse live within me")
 
-When Lucas Evers in his Week 3's lecture about Bio Art talked about Marion Laval-Lantet’s 2011 “May the horse live within me” art performance, it enraged me. Later I realized this could well be because of some unanswered questions still haunting me somewhere in the background.
+When Lucas Evers in his Week 3's lecture about Bio Art talked about Marion Laval-Lantet’s 2011 “May the horse live within me” art performance, it enraged me. Later I realized this could well be because of some unanswered questions still haunting me somewhere in the background since the early 90's.
 
 In 1992 my brother John, suffering from aplastic anaemia as a therapy first got cells from pigs and horses and later a bone mare transplant of an anonymous East-German donor. My brother died from graft-versus-host disease, basically his own organs one by one being rejected by the graft bone mare. I was very confused at that time and was left with very basic questions about identity. Was my brother a chimera when he got the pig and horse cells? Later, was my brother killed by the allogeneic bone mare or was the remaining entity not my brother anymore? Are we basically our immune system? 
 
