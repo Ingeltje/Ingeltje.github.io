@@ -24,6 +24,8 @@ I will keep you posted!
 The result of a lot of steps: DNA visible!
 
 ## And then there is this: a personal story (1).  
+##
+
 
 ![](/images/Week3-Marion.png "May the horse live within me")
 
