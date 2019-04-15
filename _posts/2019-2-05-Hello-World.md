@@ -59,7 +59,7 @@ This week’s device to be built was the incubator. Important part of an incubat
 ![](/images/Week3-Incubator_new.jpg "Incubator")
 I breadboarded the electronics and after some initial problems all seemed to work fine. Together with Candyce the wooden enclosure was lasercut and put together. Next step to do: convert breadboarded version into soldered one and mount  everything in the enclosure. 
 
-Thinking about a possible Final Project  (designing a game for a micro-organism seemed a logical next step after having designed games for humans and for machines) I started reading about/ watching videos about programmable plants, the rights of microbes, using micro-organisms in games and other related subjects.
+Thinking about a possible Final Project  (designing a game for a micro-organism seemed a logical next step after having designed games for humans and for machines) I started reading about/ watching videos about programmable plants, [the rights of microbes](https://www.tandfonline.com/doi/abs/10.1179/030801804225012635?journalCode=yisr20), [using micro-organisms in games](https://vimeo.com/261943628) and other related subjects.
 
 ![](/images/Week3-Vierluik2.jpg "Reading and watching")
  
