@@ -32,7 +32,7 @@ When Lucas Evers in his Week 3's lecture about Bio Art talked about Marion Laval
 
 In 1992 my brother John, suffering from aplastic anaemia as a therapy first got cells from pigs and horses and later a bone mare transplant of an anonymous East-German donor. My brother died from graft-versus-host disease, basically his own organs one by one being rejected by the graft bone mare. I was very confused at that time and was left with very basic questions about identity. Was my brother a chimera when he got the pig and horse cells? Later, was my brother killed by the allogeneic bone mare or was the remaining entity not my brother anymore? Are we basically our immune system? 
 
-As a personal side path I will document about these and other Biohack related questions in “And then there is this” blog posts.  For one of the question I meanwhile found this answer: yes, my brother was a chimera! 
+As a personal side path I will document about these and other Biohack related questions in “And then there is this” blog posts.  For one of the question I meanwhile found this answer: yes, my brother was a [chimera](https://www.watersheddna.com/blog-and-news/stemcelltransplantgedmatch)! 
 
 ![](/images/Week3-Chimera.png "My brother was a chimera")
 
