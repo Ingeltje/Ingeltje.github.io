@@ -48,14 +48,12 @@ This week we got a short introduction to molecular biology and a crash-course Ar
 We learned how to make Ringer’s solution (a liquid simulating the isotonic solution in bodily fluids) and MRS Agar plates (a petri dish filled with an agar solutio with nutrients that once it is solidified can be used to culture microorganisms).  
 The agar plates were used for the isolation of yoghurt bacteria as found in plain yoghurt and Yakult. http://biohackacademy.github.io/bha6/class/3/isolation-of-yoghurt-bacteria/
 
-We also got a lecture by Lucas Evers about Bioart. Intrigued by the distinction we (= humans) make between inanimate material - plants – bacteria – vertibrates – other human beings, the work of Spela Petric [Spela Petric](https://www.spelapetric.org/)
-
-resonated most with my current questions. 
+We also got a lecture by Lucas Evers about Bioart. Intrigued by the distinction we (= humans) make between inanimate material - plants – bacteria – vertibrates – other human beings, the work of [Spela Petric](https://www.spelapetric.org/) resonated most with my current questions. 
 
 ![](/images/Week3-Spela.png "Spela Petric homepage")
 
-To find out more about this and hopefully get some answers to my questions, I decided to attend the V2 meetup Introduction to Bio Art, where both Lucas and Spela would be speakers.
-https://v2.nl/events/media-art-meetup-2-4-introduction-to-bio-art
+To find out more about this and hopefully get some answers to my questions, I decided to attend the [V2 Meetup Introduction to Bio Art](https://v2.nl/events/media-art-meetup-2-4-introduction-to-bio-art), where both Lucas and Spela would be speakers.
+
 
 ![](/images/Week3-Incubator.JPG "Incubator")
 This week’s device to build was the incubator. Important part of an incubator: temperature sensing and adjusting temperature accordingly. I breadboarded the electronics and after some initial problems all seemed to work fine. Together with Candyce the wooden enclosure was lasercut and put together. Next step to do: convert breadboarded version into soldered one and mount  everything in the enclosure. 
