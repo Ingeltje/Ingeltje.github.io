@@ -23,6 +23,31 @@ I will keep you posted!
 
 The result of a lot of steps: DNA visible!
 
+##  Week 3
+
+
+
+This week we got a short introduction to molecular biology and a crash-course Arduino programming and digital electronics. In the lab we started isolating microbes ourselves. 
+
+![](/images/MIN-MAX%20thermometer.jpg "MIN-MAX thermometer" )
+
+![](/images/Week2_Composite1.jpg "Working sterile")
+
+In the lab we got an introduction on cultivating microbes. We learned about (a) nutrient agar and (b) agar plates, and about (c) incubators and (d) autoclaves, aka Ikea pressure cookers.
+ 
+
+![](/images/Week2_Composite2.jpg "Working sterile")
+
+For cultivating microbes working sterile to avoid contamination is very important: (a) use alcohol to clean the surface and (b) a gas burner to create a sterile umbrella and for next steps: (c) sterilize whatever  you use and (d) stay within the sterile “umbrella”. 
+
+
+![](/images/IMG_E1154.JPG "Magnetic Stirre Electronics")
+For this week’s device (the magnetic stirrer) I ordered all parts and assembled the electronics. I found out the resistors got really hot while the heating pad did hardly heat up. Even after changing the power supply the problem remained.
+
+
+![](/images/IMG_1188.PNG "Revised Magnetic Stirrer circuit")
+It appeared to be a flaw in the design. The fix was to add 3 resistors in parallel and to move one of the connections, as can be seen in this updated schedule posted by Raza, a [2017 BHA student](https://github.com/R4za/BiohackAcademy2017/blob/master/stirrerschematic.png ). After changing the circuit accordingly the heating pad functioned as expected.
+
 ##  Week 2
 
 
