@@ -26,7 +26,6 @@ The result of a lot of steps: DNA visible!
 ## And then there is this: a personal story (1).  
 ##
 
-
 ![](/images/Week3-Marion.png "May the horse live within me")
 
 When Lucas Evers in his Week 3's lecture about Bio Art talked about Marion Laval-Lantet’s 2011 “May the horse live within me” art performance, it enraged me. Later I realized this could well be because of some unanswered questions still haunting me somewhere in the background.
@@ -38,6 +37,8 @@ As a personal side path I will document about these and other Biohack related qu
 ![](/images/Week3-Chimera.png "My brother was a chimera")
 
 
+
+
 ##  Week 3
 
 This week we got a short introduction to molecular biology and a crash-course Arduino programming and digital electronics. In the lab we started isolating microbes ourselves. 
@@ -47,10 +48,12 @@ This week we got a short introduction to molecular biology and a crash-course Ar
 We learned how to make Ringer’s solution (a liquid simulating the isotonic solution in bodily fluids) and MRS Agar plates (a petri dish filled with an agar solutio with nutrients that once it is solidified can be used to culture microorganisms).  
 The agar plates were used for the isolation of yoghurt bacteria as found in plain yoghurt and Yakult. http://biohackacademy.github.io/bha6/class/3/isolation-of-yoghurt-bacteria/
 
-![](/images/Week3-Spela.png "Spela Petric homepage")
-We also got a lecture by Lucas Evers about Bioart. Intrigued by the distinction we (= humans) make between inanimate material - plants – bacteria – vertibrates – other human beings, the work of Spela Petric resonated most with my current questions. 
+We also got a lecture by Lucas Evers about Bioart. Intrigued by the distinction we (= humans) make between inanimate material - plants – bacteria – vertibrates – other human beings, the work of Spela Petric [Spela Petric] (https://www.spelapetric.org/)
 
-![](/images/Week3-MediaArtMeetupV2.jpg "V2 Media Art Meetup")
+resonated most with my current questions. 
+
+![](/images/Week3-Spela.png "Spela Petric homepage")
+
 To find out more about this and hopefully get some answers to my questions, I decided to attend the V2 meetup Introduction to Bio Art, where both Lucas and Spela would be speakers.
 https://v2.nl/events/media-art-meetup-2-4-introduction-to-bio-art
 
