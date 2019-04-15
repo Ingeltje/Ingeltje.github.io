@@ -23,30 +23,43 @@ I will keep you posted!
 
 The result of a lot of steps: DNA visible!
 
+## And then there is this: a personal story (1).  
+
+![](/images/Week3-Marion.png "May the horse live within me")
+
+When Lucas Evers in his Week 3's lecture about Bio Art talked about Marion Laval-Lantet’s 2011 “May the horse live within me” art performance, it enraged me. Later I realized this could well be because of some unanswered questions still haunting me somewhere in the background.
+
+In 1992 my brother John, suffering from aplastic anaemia as a therapy first got cells from pigs and horses and later a bone mare transplant of an anonymous East-German donor. My brother died from graft-versus-host disease, basically his own organs one by one being rejected by the graft bone mare. I was very confused at that time and was left with very basic questions about identity. Was my brother a chimera when he got the pig and horse cells? Later, was my brother killed by the allogeneic bone mare or was the remaining entity not my brother anymore? Are we basically our immune system? 
+
+As a personal side path I will document about these and other Biohack related questions in “And then there is” blog posts.  For one of the question I meanwhile found this answer: yes, my brother was a chimera! 
+
+![](/images/Week3-Chimera.png "My brother was a chimera")
+
+
 ##  Week 3
-
-
 
 This week we got a short introduction to molecular biology and a crash-course Arduino programming and digital electronics. In the lab we started isolating microbes ourselves. 
 
-![](/images/MIN-MAX%20thermometer.jpg "MIN-MAX thermometer" )
+![](/images/Week3-Vierluik1.jpg ""Isolation yoghurt"
 
-![](/images/Week2_Composite1.jpg "Working sterile")
+We learned how to make Ringer’s solution (a liquid simulating the isotonic solution in bodily fluids) and MRS Agar plates (a petri dish filled with an agar solutio with nutrients that once it is solidified can be used to culture microorganisms).  
+The agar plates were used for the isolation of yoghurt bacteria as found in plain yoghurt and Yakult. http://biohackacademy.github.io/bha6/class/3/isolation-of-yoghurt-bacteria/
 
-In the lab we got an introduction on cultivating microbes. We learned about (a) nutrient agar and (b) agar plates, and about (c) incubators and (d) autoclaves, aka Ikea pressure cookers.
- 
+![](/images/Week3-Spela.png "Spela Petric homepage")
+We also got a lecture by Lucas Evers about Bioart. Intrigued by the distinction we (= humans) make between inanimate material - plants – bacteria – vertibrates – other human beings, the work of Spela Petric resonated most with my current questions. 
 
-![](/images/Week2_Composite2.jpg "Working sterile")
+![](/images/Week3-MediaArtMeetupV2.jpg "V2 Media Art Meetup")
+To find out more about this and hopefully get some answers to my questions, I decided to attend the V2 meetup Introduction to Bio Art, where both Lucas and Spela would be speakers.
+https://v2.nl/events/media-art-meetup-2-4-introduction-to-bio-art
 
-For cultivating microbes working sterile to avoid contamination is very important: (a) use alcohol to clean the surface and (b) a gas burner to create a sterile umbrella and for next steps: (c) sterilize whatever  you use and (d) stay within the sterile “umbrella”. 
+![](/images/Week3-Incubator.JPG "Incubator")
+This week’s device to build was the incubator. Important part of an incubator: temperature sensing and adjusting temperature accordingly. I breadboarded the electronics and after some initial problems all seemed to work fine. Together with Candyce the wooden enclosure was lasercut and put together. Next step to do: convert breadboarded version into soldered one and mount  everything in the enclosure. 
 
 
-![](/images/IMG_E1154.JPG "Magnetic Stirre Electronics")
-For this week’s device (the magnetic stirrer) I ordered all parts and assembled the electronics. I found out the resistors got really hot while the heating pad did hardly heat up. Even after changing the power supply the problem remained.
+![](/images/Week3-Vierluik2.jpg "Reading and watching")
+Thinking about a possible Final Project  (designing a game for a micro-organism seemed a logical next step after having designed games for humans and for machines) I started reading about/ watching videos about programmable plants, the rights of microbes, using micro-organisms in games and other related subjects. A totally new world is opened up for me!
 
 
-![](/images/IMG_1188.PNG "Revised Magnetic Stirrer circuit")
-It appeared to be a flaw in the design. The fix was to add 3 resistors in parallel and to move one of the connections, as can be seen in this updated schedule posted by Raza, a [2017 BHA student](https://github.com/R4za/BiohackAcademy2017/blob/master/stirrerschematic.png ). After changing the circuit accordingly the heating pad functioned as expected.
 
 ##  Week 2
 
