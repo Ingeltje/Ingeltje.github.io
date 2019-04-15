@@ -48,7 +48,7 @@ This week we got a short introduction to molecular biology and a crash-course Ar
 We learned how to make Ringer’s solution (a liquid simulating the isotonic solution in bodily fluids) and MRS Agar plates (a petri dish filled with agar and nutrients that - once it is solidified - can be used to culture microorganisms).  
 The agar plates were used for the [isolation of yoghurt bacteria](http://biohackacademy.github.io/bha6/class/3/isolation-of-yoghurt-bacteria/) as found in plain yoghurt and Yakult. 
 
-We also got a lecture by Lucas Evers about Bioart. Intrigued by the distinction we (= humans) make between inanimate material - plants – bacteria – vertibrates – other human beings, the work of [Spela Petric](https://www.spelapetric.org/) resonated most with my current questions. 
+We also got a lecture by Lucas Evers about Bio Art. Intrigued by the distinction we (= humans) make between inanimate material - plants – bacteria – vertibrates – other human beings, the work of [Spela Petric](https://www.spelapetric.org/) resonated most with my current questions. 
 
 ![](/images/Week3-Spela.png "Spela Petric homepage")
 
