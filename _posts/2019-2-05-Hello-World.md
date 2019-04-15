@@ -54,7 +54,7 @@ We also got a lecture by Lucas Evers about Bio Art. Intrigued by the distinction
 
 To find out more about this and hopefully get some answers to my questions, I decided to attend the [V2 Meetup Introduction to Bio Art](https://v2.nl/events/media-art-meetup-2-4-introduction-to-bio-art), where both Lucas and Spela would be speakers.
 
-This week’s device to be built was the incubator. Important part of an incubator: temperature sensing and adjusting temperature accordingly.
+This week’s device to be built was the [incubator](https://github.com/BioHackAcademy/BHA_Incubator). Important part of an incubator: temperature sensing and adjusting temperature accordingly.
 
 ![](/images/Week3-Incubator_new.jpg "Incubator")
 I breadboarded the electronics and after some initial problems all seemed to work fine. Together with Candyce the wooden enclosure was lasercut and put together. Next step to do: convert breadboarded version into soldered one and mount  everything in the enclosure. 
