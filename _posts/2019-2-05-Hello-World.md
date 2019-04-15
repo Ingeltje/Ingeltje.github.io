@@ -54,13 +54,16 @@ We also got a lecture by Lucas Evers about Bioart. Intrigued by the distinction 
 
 To find out more about this and hopefully get some answers to my questions, I decided to attend the [V2 Meetup Introduction to Bio Art](https://v2.nl/events/media-art-meetup-2-4-introduction-to-bio-art), where both Lucas and Spela would be speakers.
 
+This week’s device to be built was the incubator. Important part of an incubator: temperature sensing and adjusting temperature accordingly.
 
 ![](/images/Week3-Incubator.JPG "Incubator")
-This week’s device to build was the incubator. Important part of an incubator: temperature sensing and adjusting temperature accordingly. I breadboarded the electronics and after some initial problems all seemed to work fine. Together with Candyce the wooden enclosure was lasercut and put together. Next step to do: convert breadboarded version into soldered one and mount  everything in the enclosure. 
+I breadboarded the electronics and after some initial problems all seemed to work fine. Together with Candyce the wooden enclosure was lasercut and put together. Next step to do: convert breadboarded version into soldered one and mount  everything in the enclosure. 
 
+Thinking about a possible Final Project  (designing a game for a micro-organism seemed a logical next step after having designed games for humans and for machines) I started reading about/ watching videos about programmable plants, the rights of microbes, using micro-organisms in games and other related subjects.
 
 ![](/images/Week3-Vierluik2.jpg "Reading and watching")
-Thinking about a possible Final Project  (designing a game for a micro-organism seemed a logical next step after having designed games for humans and for machines) I started reading about/ watching videos about programmable plants, the rights of microbes, using micro-organisms in games and other related subjects. A totally new world is opened up for me!
+ 
+A whole new world is opening up for me!
 
 
 
