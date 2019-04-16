@@ -42,35 +42,33 @@ The bacterial growth in the -5 agar plates were easiest to compare because they 
 ![](/images/Week%204%204%20-%20YO5%20plate.jpg "YO5 plate") 
 
 ("Half true" calculation: the Yakult claim is “at least 6.5 billion bacteria per bottle” of 65ml. Estimates for yoghurt being between 1 to 10 million bacteria per ml, which equals between 6.5 and 650 millions per 65 ml, the Yakult claims boils down to 10x more bacteria. The 5x more bacteria that I counted is I only half of that.)
-Because for my final project I was contemplating the idea of making a game for slime mould and my co-student Mischa was thinking about doing something with slime mould too, we decides to do some tests to see how slime mould grows (direction and speed, placement of food being the variable condition). For this we prepared 6 agar plates, inoculated these with slime mould and made 6 different oat patterns in the dishes.
+Because for my final project I was contemplating the idea of making a game for slime mould and my co-student Mischa was thinking about doing something with slime mould too, we decided to do some tests to see how slime mould grows (direction and speed, placement of food being the variable condition). For this we prepared 6 agar plates, inoculated these with slime mould and made 6 different oat patterns (= food) in the dishes.
 
 ![](/images/Week%204%205%20-%20Mischa.jpg "Mischa") 
 
-When I came back in the lab one day later the slime mould in the last dish already reached halfway the diameter. A day later it travelled all the way to the end. I intend to show the growth next week too and where possible draw conclusions.
+One day later When I came back in the lab the slime mould in the last dish already reached halfway the diameter. A day later it travelled all the way to the end. I intend to show the growth next week too and where possible draw conclusions.
 
 ![](/images/Week%204%206%20%20-%204luik%20slime%20mold.jpg "Growth slime mould") "
 
-This week the device assignment was to build a webcam microscope. I finished mine at home and was really surprised to see the quality on my own computer screen!
+This week's device assignment was to build a webcam microscope. I finished mine at home and was really surprised to see the quality on my own computer screen looking at a slide I already prepared in the lab.
 
 ![](/images/Week%204%207%20-%20webcam%20microscope.jpg "Webcam Microscope") 
 
-With regards to the lecture on Biotic Games, showcasing amongst others Euglena Spaceships 2016 (Roland van Dierendonck, Christian Schulz, Pieter van Boheemen, Ingmar Riedel-Kruse https://waag.org/nl/article/euglena-spaceships) and Raphael Kim’s Mould Rush https://biohackanddesign.com/portfolio/mould-rush, once again I stumbled upon the question how to think about the Euglena, slime mould and other bio-agents involved. 
+With regards to the lecture on Biotic Games, showcasing amongst others [Euglena Spaceships 2016](https://waag.org/nl/article/euglena-spaceships) (Roland van Dierendonck, Christian Schulz, Pieter van Boheemen, Ingmar Riedel-Kruse ) and Raphael Kim’s [Mould Rush](https://biohackanddesign.com/portfolio/mould-rush), once again I stumbled upon the question how to think about the Euglena and slime mould "involved"in this human-microorganism interaction. 
 
 ![](/images/Week%204%208%20Biotic%20Gaming.jpg "Biotic Gaming") 
 
-I wonder: ss there any intentionality on the other side? Are humans playing with them or just exploiting them as animated set pieces in a game? In my search for answers I stumbled upon Christophe Menant’s publication Biosemiotics, Aboutness, Meaning and Bio-intentionality, Proposal for an Evolutionary Approach. At least I have  a starting point now for further idea development!
-Screendump article
-Christophe Menant
-https://www.researchgate.net/publication/279941646_Biosemiotics_Aboutness_Meaning_and_Bio-intentionality_Proposal_for_an_Evolutionary_Approach
+Is there any intentionality on the other side? Are humans and the microorganisms playing or are the creatures just exploited as animated set pieces in a game? In my search for answers I stumbled upon Christophe Menant’s publication [Biosemiotics, Aboutness, Meaning and Bio-intentionality, Proposal for an Evolutionary Approach.](https://www.researchgate.net/publication/279941646_Biosemiotics_Aboutness_Meaning_and_Bio-intentionality_Proposal_for_an_Evolutionary_Approach)
 
 ![](/images/Week%204%209%20IMG_1231.PNG "About aboutness") 
 
-This week’s guest lecturer was Gunter Seyfried. I really like his work, in particular his current Return to Dilmun project, “co-starring” our own instructor Roland and our own Waag weblab. 
-Guest Lecture http://www.polycinease.com/return-to-dilmun/
+At least I have  a starting point now for further idea development!
+
+This week’s guest lecturer was Gunter Seyfried. I really like his work, in particular his current [Return to Dilmun project](http://www.polycinease.com/return-to-dilmun/), “co-starring” our own instructor Roland and our own Waag weblab. 
 
 ![](/images/Week%204%2010%20Return%20to%20Dilmun.jpg "Return to Dilmin")
 
-(Little did I know that later, unintentionally, I would hear what the project is about far more often than I wished for, me myself ending the session by improvising an autocue setup, consisting of sswiping up text in a text editor app on an iPad. My autocue past  and my biohack future: bien étonnés de ce trouver ensemble!)  
+Little did I know that later, unintentionally, I would hear what that project is about far more often than I wished for, me myself ending the session by improvising an autocue setup for Gunter and Roland, consisting of sswiping up text in a text editor app on an iPad. My autocue past and my biohack future: bien étonnés de ce trouver ensemble!  
 
 
 ## And then there is this: a personal story (1).  
