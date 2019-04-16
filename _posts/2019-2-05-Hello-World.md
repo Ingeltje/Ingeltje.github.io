@@ -48,7 +48,7 @@ Because for my final project I was contemplating the idea of making a game for s
 
 One day later when I came back in the lab the slime mould in the bottom right dish already reached halfway the diameter. A day later it travelled all the way to the other side. I intend to show the growth next week too and where possible draw conclusions.
 
-![](/images/Week%204%206%20%20-%204luik%20slime%20mold.jpg "Growth slime mould") "
+![](/images/Week%204%206%20%20-%204luik%20slime%20mold%202.jpg "Growth slime mould")
 
 This week's device assignment was to build a webcam microscope. I finished mine at home and looking at a slide I already prepared in the lab, was really surprised to see the quality of the image.
 
