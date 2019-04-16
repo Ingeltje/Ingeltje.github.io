@@ -66,7 +66,8 @@ At least I have  a starting point now for further idea development!
 
 This week’s guest lecturer was Gunter Seyfried. I really like his work, in particular his current [Return to Dilmun project](http://www.polycinease.com/return-to-dilmun/), “co-starring” our own instructor Roland and our own Waag weblab. 
 
-![](/images/Week%204%2010%20Return%20to%20Dilmun.jpg "Return to Dilmin")
+![](/images/Week%204%2010%20Return%20to%20Dilmun2.jpg "Return to Dilmin")
+
 
 Little did I know that later, unintentionally, I would hear what "Return to Dilmun" is about far more often than I wished for, me myself ending this by improvising an autocue setup for Gunter and Roland, consisting of sswiping up text in a text editor app on an iPad. My autocue past and my biohack future: bien étonnés de ce trouver ensemble!  
 
