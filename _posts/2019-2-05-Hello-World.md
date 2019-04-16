@@ -29,19 +29,19 @@ This week was about optics. We learned how to use a microscope and how to stain 
 
 ![](/images/WEEK%204%201%20-%20vierluik%20microscoop.jpg "Microscope")
 
-As a follow-up on last week’s practical assignment when we isolated Lactobacillus casei bacteria from plain yoghurt and the probiotic drink Yakult and put them in an incubator) I  took out all agar plates to see what happened.  
+As a follow-up on last week’s practical assignment (where we isolated Lactobacillus casei bacteria from plain yoghurt and the probiotic drink Yakult and put them in an incubator) I  took out all agar plates to see what happened in a week.  
 
 ![](/images/Week%204%202%20-%20all%20plates.jpg "All plates") 
 
-The way to compare bacterial growth is to count the number of colonies in comparable plates. In the -1 and -3 plates there were far too many colonies to do this.
+A way to compare bacterial growth is to count the number of colonies in comparable plates. In the -1 and -3 plates there were far too many colonies to do this.
 
 ![](/images/Week%204%203%20-%202%20plates.jpg "YO3 and Ya3 plates") 
 
-The bacteria growth in the -5 agar plates were easiest comparable because they allowed for counting those separate colonies. In the yoghturt plate I counted 14 colonies; in the yakult plate I counted 73 colonies, hence a 1:5 ratio, semi-scientifically proofing the yakult claim to be half true.
+The bacterial growth in the -5 agar plates were easiest to compare because they allowed for counting separate colonies with the naked eye. In the yoghturt plate I counted 14 colonies; in the yakult plate I counted 73 colonies, hence a 1:5 ratio, semi-scientifically proofing the yakult claim to be half true.
 
 ![](/images/Week%204%204%20-%20YO5%20plate.jpg "YO5 plate") 
 
-(Calculation: the Yakult claim is “at least 6.5 billion bacteria per bottle” of 65ml. Estimates for yoghurt being between 1 to 10 million bacteria per ml, which equals between 6.5 and 650 millions per 65 ml, the Yakult claims boils down to 10x more bacteria. The 5x more bacteria that I counted is I only half of that.)
+("Half true" calculation: the Yakult claim is “at least 6.5 billion bacteria per bottle” of 65ml. Estimates for yoghurt being between 1 to 10 million bacteria per ml, which equals between 6.5 and 650 millions per 65 ml, the Yakult claims boils down to 10x more bacteria. The 5x more bacteria that I counted is I only half of that.)
 Because for my final project I was contemplating the idea of making a game for slime mould and my co-student Mischa was thinking about doing something with slime mould too, we decides to do some tests to see how slime mould grows (direction and speed, placement of food being the variable condition). For this we prepared 6 agar plates, inoculated these with slime mould and made 6 different oat patterns in the dishes.
 
 ![](/images/Week%204%205%20-%20Mischa.jpg "Mischa") 
