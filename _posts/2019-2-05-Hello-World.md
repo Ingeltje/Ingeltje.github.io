@@ -68,7 +68,7 @@ This week’s guest lecturer was Gunter Seyfried. I really like his work, in par
 ![](/images/Week%204%2010%20Return%20to%20Dilmun2.jpg "Return to Dilmin")
 
 
-Little did I know that later, unintentionally, I would hear what "Return to Dilmun" is about far more often than I wished for, me myself ending this by improvising an autocue set-up for Gunter and Roland, consisting of finger swiping pieces of text on an iPad, handheld under a camera. My autocue past and my biohack future: bien étonnés de ce trouver ensemble!  
+(Little did I know that later, unintentionally, I would hear what "Return to Dilmun" is about far more often than I wished for, me myself ending this by improvising an autocue set-up for Gunter and Roland, consisting of finger swiping pieces of text on an iPad, handheld under a camera. My autocue past and my biohack future: bien étonnés de ce trouver ensemble!)  
 
 
 ## And then there is this: a personal story (1).  
