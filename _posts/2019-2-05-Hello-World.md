@@ -29,7 +29,7 @@ This week was about optics. We learned how to use a microscope and how to stain 
 
 ![](/images/WEEK%204%201%20-%20vierluik%20microscoop.jpg "Microscope")
 
-As a follow-up on last week’s practical assignment (where we isolated the [Lactobacillus casei bacteria] (http://biohackacademy.github.io/bha6/class/3/isolation-of-yoghurt-bacteria/) 
+As a follow-up on last week’s practical assignment (where we isolated the [Lactobacillus casei bacteria](http://biohackacademy.github.io/bha6/class/3/isolation-of-yoghurt-bacteria/) 
 from plain yoghurt and from the probiotic drink Yakult), I  took all agar plates out of the incubator to see what happened in a week.  
 
 ![](/images/Week%204%202%20-%20all%20plates.jpg "All plates") 
