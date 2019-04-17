@@ -63,7 +63,7 @@ Is there any intentionality from the other side? Are humans and the microorganis
 ![](/images/Week%204%209%20IMG_1231.PNG "About aboutness") 
 
 
-This week’s guest lecturer was Gunter Seyfried. I really like his work, in particular his current [Return to Dilmun project](http://www.polycinease.com/return-to-dilmun/), “co-starring” our own instructor Roland and our own Waag weblab. 
+This week’s guest lecturer was Gunter Seyfried. I really like his work, in particular his current [Return to Dilmun project](http://www.polycinease.com/return-to-dilmun/), “co-starring” our own instructor Roland and our own Waag wetlab. 
 
 ![](/images/Week%204%2010%20Return%20to%20Dilmun2.jpg "Return to Dilmin")
 
