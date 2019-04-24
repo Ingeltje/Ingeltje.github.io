@@ -1,8 +1,11 @@
----
-layout: post
-title: Biohack Academy 2019
 
 ---
+layout: post
+title: Final Project
+permalink: /Final Project/
+---
+
+
 
 ##  FINAL PROJECT 
 
