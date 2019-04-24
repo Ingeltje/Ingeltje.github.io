@@ -132,7 +132,7 @@ Also one person noted she thinks I already did and one person added I should do 
 Which - in case I decide to do it - I surely will do.
 I will keep you posted!
 
-##  Week 6
+##  Week 6 to Week 9 (still to be documented)
 
 ![](/images/Combi%20Left%20and%20Right.jpg "DNA" )
 
