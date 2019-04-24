@@ -18,13 +18,36 @@ sent to the backside of the moon by China’s Chang'e 4 lander perishing there f
 
 ![](/images/02%20Wellerstein-Laika.jpg "Laika" )
 
+…  I wanted to take a closer look into the distance humans apparantly perceive between themselves and other biological agents. 
+Since “having brains” seemed to be a key factor for that perceived distance and hence for the level of empathy towards other biological agents, I thought showing “brain-like” activity in otherwise thought-off brainless agents  - like for instance iceberg lettuce - perhaps could change the perceived distance and make people feel more related to for instance iceberg lettuce ….
+ 
 ![](/images/03%20IcebergLettuce.png "Lettuce" )
 
+ … that, visually, already shows a remarkable resemblance to the human brain:
+ 
 ![](/images/04%20Human%20brains.jpg "Brains" )
+
+A common way of measuring brain activity being making an EEG, my plan was to hook up iceberg lettuce to an EEG device and compare potential difference under several test conditions (neutral – sound of cutting iceberg lettuce – video of someone eating iceberg lettuce), comparable to doing EEG experiments with humans.
+ 
 
 ![](/images/05%20RLG%20P300%20experiment.jpg "EEG" )
 
+There were still some experimental design issues to be solved, but having built EEG-based BCI systems, I was sure I would know how to do this and presented my Resistence is fertile  project at midterm:
+
 ![](/images/06%20resistence%20is%20futile%20v2.jpg "Futile" )
+
+And then, while presenting it, I realized I indeed already knew how to do this! That was not why I joined Biohack Academy! Lucky for me Roland sympathized with my plan to completely change subject, so what follows is my Final Project version 2.0.
+
+## Final project version 2.0: Inger’s Kitchen Sink Lab
+
+Project description: 
+A prototypical Kitchen Sink Bio Lab for both biological experiments and - in parallel -  the development of  ideas about the technical, legal and ethical questions involved in biological experiments (including genetically modification of the human genome), reformulated  as “Kan ik het”, “Mag ik het” and “Wil ik het”.
+
+Context:
+While the WHO and other national and international organizations are discussing standards for governance of intervention on the human genome, November 2018 [Dr. He Jiankui](https://en.wikipedia.org/wiki/He_Jiankui) (Shenzhen, China),
+claimed to have made the first genetically modified people, using CRISPR Cas9 to genetically modify the genome. 
+
+March 2017 [COGEM](https://www.cogem.net/index.cfm/en), the Dutch committee that provides scientific advice to the government on the risks to human health and the environment of the production and use of GMOs and informs the government of ethical and societal issues linked to genetic modification, published [“Ingrijpen in het DNA van de mens”](https://www.cogem.net/index.cfm/nl/publicaties/publicatie/ingrijpen-in-het-dna-van-de-mens-morele-en-maatschappelijke-implicaties-van-kiembaanmodificatie).
 
 ![](/images/07%20He_Jiankui.jpg "Dr He" )
 
