@@ -76,12 +76,12 @@ we did in class 5 and the Crispr Cas 9 e.coli experiment as per the The Odin’s
 I choose the first experiment  because being a hardcore vegetarian I really would like my Kitchen Sink Lab to be equiped for PCR tests to find out whether or not the vegetarian bamischijf at Smullers contains meat traces of the frikandel fried in the same oil a minute before.
 
 ![](/images/Bamischijfje.jpg "Bamischijf" )
-The same for the HEMA vegetarian sauzijzenbroodje, in store stored next to the non-vegetarian version of it, both HEMA's vegetarian saucijzenbroodje and Smullers vegetarian bamischijf frequently consumed by me on my way home from Waag Amsterdam. 
+The same for the HEMA vegetarian sauzijzenbroodje, in store stored next to the non-vegetarian version of it, both HEMA's vegetarian saucijzenbroodje and Smullers vegetarian bamischijf being frequently consumed by me on my way home from Waag Amsterdam these days. 
 
 ![](/images/Saucijzenbroodje.jpg "Saucijzenbroodje" )
 
 I also choose this experiment because a lot of lab procedures and lab skills are involved that I wanted  to practise. 
-Most important take-away from this part of the project: lots of consumables (primers, DNA loading dye, agarose) and small lab items (erlenmeyers, safety goggles, pipettes) are needed for a functional biolab. More importantly: it might be that some chemicals are too dangerous to be used in a kitchen sink lab (in this case: SYBR safe to colour the agarose gel is really toxic!).
+Most important take-away from this part of the project: apart from the BHA DIY devices like the magnetic stirrer, lots of other equipment (balance, vortexer, microwave), consumables (primers, DNA loading dye, agarose) and small lab items (erlenmeyers, safety goggles, pipettes) are needed for a functional biolab. More importantly: it might be that some chemicals are too dangerous to be used in a kitchen sink lab (in this case: SYBR safe to colour the agarose gel is really toxic!).
 
 ![](/images/10%20Mystery%20Meat%20combi.jpg "Meat combi" )
 
@@ -96,11 +96,11 @@ After I received the package for the CRISPR Cas9 e.coli experiment (not opened b
 ![](/images/BoxOdin.jpg "Box Odin" )
 
 
-Because both Per and Roland told me by EU regulation it is not allowed to perform step 5 (the “heatshock”)  in the manual’s next section  “DNA transformation and CRISPR experiment” I stopped the experiment here. 
+Because both Per and Roland told me EU regulation prohibits to perform step 5 (the “heatshock”)  in the manual’s next section  “DNA transformation and CRISPR experiment” in Waag's Wetlab, for the moment I stopped the experiment here. 
 
-![](/images/12%20Heatshock%20in%20step%205.png "hetshock" )
+![](/images/12%20Heatshock%20in%20step%205.png "heatshock" )
 
-I intend to find out more about these EU regulations, national gratification and reasoning behind strictly forbidding the CRISPR Cas9 procedure in the EU in the next few months and to report on my findings.
+I intend to find out more about those EU regulations, national gratifications and reasonings behind it in the next few months and to report here on my findings. 
 
 For the moment my way of involving more people in the subject matter consists of building the ISK Lab, doing experiments, telling people about it during the exhibition of the BHA6 Final projects on April 2nd 2019 and at that occasion ask people to think about the choices I have with regards to the CRISPR Cas9 experiment and vote:
 
