@@ -1,7 +1,49 @@
 ---
 layout: post
 title: Biohack Academy 2019
+
 ---
+
+##  FINAL PROJECT 
+
+“Resistence is fertile”: this was the title of my final project’s mid-term presentation. 
+Surprised by the complete lack of empathy for the [seedlings]( 
+https://www.space.com/43012-china-cotton-seed-moon-far-side-chang-e4.html)
+sent to the backside of the moon by China’s Chang'e 4 lander perishing there from cold a few hours after they sprouted …. 
+
+
+![](/images/01%20cotton%20seedlings%20sprouted%20on%20the%20moon%20in%20soil%20from%20earth%20%2015%20jan%202019.jpg "Seedling")
+
+…. as opposed to the commotion there was in the 50s about the stray dog Laika, sent into orbit around Earth by the Russians and dying in Spoetnik 2 after 7 hours from heat and stress ….
+
+![](/images/02%20Wellerstein-Laika.jpg "Laika" )
+
+![](/images/03%20IcebergLettuce.png "Lettuce" )
+
+![](/images/04%20Human%20brains.jpg "Brains" )
+
+![](/images/05%20RLG%20P300%20experiment.jpg "EEG" )
+
+![](/images/06%20resistence%20is%20futile%20v2.jpg "Futile" )
+
+![](/images/07%20He_Jiankui.jpg "Dr He" )
+
+![](/images/08%20IKS%2001.jpg "IKS" )
+
+![](/images/09%20IKS%20Lab%20combi%20pic.jpg "IKS lab" )
+
+![](/images/10%20Mystery%20Meat%20combi.jpg "Meat combi" )
+
+![](/images/11%20Odin%20kit%20combi.jpg "Odin kit" )
+
+![](/images/12%20Heatshock%20in%20step%205.png "hetshock" )
+
+![](/images/13%20Voting%20form.png "Voting form" )
+
+![](/images/14%20Used%20Products.PNG "Used products" )
+
+![](/images/15%20The%20votes%20are%20in%20.JPG "Votes are in" )
+
 ##  Week 10
 
 ![](/images/IMG_2012.jpg "The Votes" )
