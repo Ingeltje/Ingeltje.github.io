@@ -56,3 +56,77 @@ Triggered by Dr. He’s announcement, January 2019 COGEM [updated](https://www.c
 Being a human being myself, I consider the subject too important to leave it to COGEM, de Gezondheidsraad, WHO or other organizations to come up with answers.  My modus operandi being that I build and do to find out and explore, I decided to start doing my own research about the blessings and dangers of genetically modification of genomes in general and the human one in particular, by building a prototypical Kitchen Sink Bio Lab (aka the IKS Lab, short for Inger's Kitchen Sink Lab) and start experimenting while in parallel developing ideas about the technical, legal and ethical questions involved, reformulated  as “Kan ik het”, “Mag ik het” and “Wil ik het”, using the IKS Lab grid as a canvas: 
 
 ![](/images/GRID.png "Grid" )
+
+### Practical Set-up of the Kitchen Sink Lab
+Tuesday, 26th of March 2019 I claimed a space at Wetlab Waag in Amsterdam to grow my Kitchen Sink Bio Lab in. In the weeks before  I already built several devices as per the BHA device repository, amongst which a Magnetic Stirrer, (the electronics part of) an Incubator and a Centrifuge that were the first objects I placed in the IKS Lab space. 
+
+![](/images/08%20IKS%2001.jpg "IKS" )
+
+
+To keep track of what was needed in a Kitchen Sink lab apart from the devices I built myself,  I decided that nothing could enter the IKS Lab space that was not owned by me or “borrowed” from Wetlab and then photographed/ otherwise documented (for instance by printing out purchase options) for future reference.
+Sticking to that rule, in the days that followed and while doing 2 experiments (see Experiments) my IKS Lab grew step by step: 
+
+
+![](/images/09%20IKS%20Lab%20combi%20pic.jpg "IKS lab" )
+
+### Experiments
+
+To find out what the possibilities would be of such a kitchen sink lab and what limitations I would have/ barriers I would encounter, I intended to do 2 experiments:  the [Mystery Meat Experiment](http://biohackacademy.github.io/bha6/class/5/pdf/Mystery%20Meat%20Protocol%20BHA5.pdf)
+we did in class 5 and the Crispr Cas 9 e.coli experiment as per the The Odin’s [DIY Bacterial Gene Engineering CRISPR Cas9 kit](http://www.the-odin.com/diy-crispr-kit/)  .  
+I choose the first experiment  because being a hardcore vegetarian I really would like my Kitchen Sink Lab to be equiped for PCR tests to find out whether or not the vegetarian bamischijf at Smullers contains meat traces of the frikandel fried in the same oil a minute before.
+
+![](/images/Bamischijfje.jpg "Bamischijf" )
+The same for the HEMA vegetarian sauzijzenbroodje, in store stored next to the non-vegetarian version of it, both HEMA's vegetarian saucijzenbroodje and Smullers vegetarian bamischijf being frequently consumed by me on my way home from Waag Amsterdam these days. 
+
+![](/images/Saucijzenbroodje.jpg "Saucijzenbroodje" )
+
+I also choose this experiment because a lot of lab procedures and lab skills are involved that I wanted  to practise. 
+Most important take-away from this part of the project: apart from the BHA DIY devices like the magnetic stirrer, lots of other equipment (balance, vortexer, microwave), consumables (primers, DNA loading dye, agarose) and small lab items (erlenmeyers, safety goggles, pipettes) are needed for a functional biolab. More importantly: it might be that some chemicals are too dangerous to be used in a kitchen sink lab (in this case: SYBR safe to colour the agarose gel is really toxic!).
+
+![](/images/10%20Mystery%20Meat%20combi.jpg "Meat combi" )
+
+For the second experiment I ordered The Odin’s [DIY Bacterial Gene Engineering CRISPR Cas9 kit](http://www.the-odin.com/diy-crispr-kit/) . Knowing that there is strict European regulation about  genetic editing of organisms, prohibiting to do the CRISPR Cas9 e.coli experiment in Waag’s Wetlab, my particular interest here was to find out exactly which actions in the protocol are not permitted, why these are not permitted and how this is controlled (possibly leading to minor disobedient behaviour in the IKS Lab once it would be up and running), all aimed at getting to know more about genetics, genetic manipulation, genetic manipulation on the human germline  and “standards for governance of intervention on the human genome”.
+
+![](/images/BoxOdin.jpg "Box Odin" )
+
+After I received the package for the CRISPR Cas9 e.coli experiment (not opened by customs; see Gate Keepers) I took it to my prototypical Kitchen Sink Lab at Waag, opened the package, and did everything that in the [manual](http://www.the-odin.com/crispr-bacterial-guide/) was labeled as Preparation,  all steps being legal and allowed according to both Waag’s safety officer Per Staugaard and our Biohack instructor Roland:
+- Make LB agar plates 
+- Streak out e. coli bacteria onto LB Agar plate 
+- Put the plates in an incubator for the bacteria to grow (easiest to just let it sit overnight)
+
+![](/images/11%20Odin%20kit%20combi.jpg "Odin experiment combi" )
+About the next section in the manual (“DNA transformation and CRISPR experiment”) both Per and Roland told me EU regulation prohibits to perform step 5 (the “heatshock”) in Waag's Wetlab. 
+
+![](/images/12%20Heatshock%20in%20step%205.png "heatshock" )
+
+I intend to find out more about those EU regulations, national gratifications and the reasoning behind it in the next few months and to report here on my findings. 
+
+For the moment my way of involving more people in the subject matter consists of building the ISK Lab, doing experiments, telling people about it during the exhibition of the BHA6 Final projects on April 2nd 2019 and at that occasion ask people to think about the choices I have with regards to the CRISPR Cas9 experiment and vote:
+
+![](/images/13%20Voting%20form.png "Voting form" )
+
+### Gate keepers?
+Citizens are supposed to know the law and in general when something is forbidden by law there is a kind of control system in place to enforce the law. For instance: kids younger than 18 are not allowed to buy alcohol. People selling alcohol are the gate keepers and have an obligation to ask for proof of being 18+ when selling alcohol to youngsters.  
+As far as doing biological experiments I found out there basically are no gate keepers when ordering from the US.  Although the DIY Bacterial Gene Engineering CRISPR Cas9 kit I ordered from The Odin was held in customs for some time, this was only (typical Dutch!) to calculate how much VAT I had to pay. Without any notice the kit itself was just dropped off at a pickup point in a second hand store a few blocks away when I was not at home. I am not sure what to think about this.
+
+
+![](/images/14%20Used%20Products.PNG "Used products" )
+
+When ordering lab materials from Dutch companies there seems to be a gate keeper system in place though: for the DIY gelbox (needed for PCR experiments) I tried to order a platinum wire from [Sigma-Aldrich](https://www.sigmaaldrich.com/nederland.html). I couldn’t do so because I did not pass the new-customer screening (delivery address being a home address and when I tried to order through my company: my company not being registered as a life sciences lab). 
+
+Then again, ordering from the US was no problem: I ordered a gelbox including platinum wire from [iRodeo](https://iorodeo.com/collections/gel-electrophoresis-and-imaging/products/mini-gel-electrophoresis-box?variant=12388662790) and a few days later it was handed over to my 87-year old neighbour who had not a clue what it was and for days forgot to tell me he had taken delivery of it. I am not sure what to think about this either!
+
+###  Update: the votes are in!
+
+![](/images/15%20The%20votes%20are%20in%20.JPG "Votes are in" )
+
+The votes are in and counted! 
+Results:
+1. I think she will not do it and I also think she shouldn't do it: 0x
+2. I think she will not do it, but I think she just caan do i: 2x
+3. I think she will do it. but I think she shouldn't do it: 11x
+4. I think she will do it and I think she can just do it: 14x (amongst which one signed by GOD).
+
+Also one person noted she thinks I already did and one person added I should do it safely.
+Which - in case I decide to do it - I surely will do.
+I will keep you posted!
