@@ -106,7 +106,7 @@ For the moment my way of involving more people in the subject matter consists of
 ![](/images/13%20Voting%20form.png "Voting form" )
 
 ### Gate keepers?
-Citizens are supposed to know the law and in general when something is forbidden by law there is a kind of control system in place to enforce the law. For instance: kids younger than 18 are not allowed to buy alcohol. People selling alcohol are the gate keepers and have an obligation to ask for proof of being 18+ when selling alcohol to youngsters.
+Citizens are supposed to know the law and in general when something is forbidden by law there is a kind of control system in place to enforce the law. For instance: kids younger than 18 are not allowed to buy alcohol. People selling alcohol are the gate keepers and have an obligation to ask for proof of being 18+ when selling alcohol to youngsters.  
 As far as doing biological experiments I found out there basically are no gate keepers when ordering from the US.  Although the DIY Bacterial Gene Engineering CRISPR Cas9 kit I ordered from The Odin was held in customs for some time, this was only (typical Dutch!) to calculate how much VAT I had to pay. Without any notice the kit itself was just dropped off at a pickup point in a second hand store a few blocks away when I was not at home. I am not sure what to think about this.
 
 
