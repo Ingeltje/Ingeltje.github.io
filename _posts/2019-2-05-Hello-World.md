@@ -87,20 +87,17 @@ Most important take-away from this part of the project: apart from the BHA DIY d
 
 For the second experiment I ordered The Odin’s [DIY Bacterial Gene Engineering CRISPR Cas9 kit](http://www.the-odin.com/diy-crispr-kit/) . Knowing that there is strict European regulation about  genetic editing of organisms, prohibiting to do the CRISPR Cas9 e.coli experiment in Waag’s Wetlab, my particular interest here was to find out exactly which actions in the protocol are not permitted, why these are not permitted and how this is controlled (possibly leading to minor disobedient behaviour in the IKS Lab once it would be up and running), all aimed at getting to know more about genetics, genetic manipulation, genetic manipulation on the human germline  and “standards for governance of intervention on the human genome”.
 
-
-After I received the package for the CRISPR Cas9 e.coli experiment (not opened by customs; see Gate Keepers) I took it to my prototypical Kitchen Sink Lab at Waag, opened the package, and did everything that in the [manual](http://www.the-odin.com/crispr-bacterial-guide/) was labeled as Preparation,  all steps being legal and allowed according to both Waag’s safety officer Per Staugaard and our Biohack instructor Roland:
-•	Make LB agar plates 
-•	Streak out e. coli bacteria onto LB Agar plate 
-•	Put the plates in an incubator for the bacteria to grow (easiest to just let it sit overnight)
-
 ![](/images/BoxOdin.jpg "Box Odin" )
 
-
-Because both Per and Roland told me EU regulation prohibits to perform step 5 (the “heatshock”)  in the manual’s next section  “DNA transformation and CRISPR experiment” in Waag's Wetlab, for the moment I stopped the experiment here. 
+After I received the package for the CRISPR Cas9 e.coli experiment (not opened by customs; see Gate Keepers) I took it to my prototypical Kitchen Sink Lab at Waag, opened the package, and did everything that in the [manual](http://www.the-odin.com/crispr-bacterial-guide/) was labeled as Preparation,  all steps being legal and allowed according to both Waag’s safety officer Per Staugaard and our Biohack instructor Roland:
+- Make LB agar plates 
+- Streak out e. coli bacteria onto LB Agar plate 
+- Put the plates in an incubator for the bacteria to grow (easiest to just let it sit overnight)
+About the next section in the manual (“DNA transformation and CRISPR experiment”) both Per and Roland told me EU regulation prohibits to perform step 5 (the “heatshock”) in Waag's Wetlab. 
 
 ![](/images/12%20Heatshock%20in%20step%205.png "heatshock" )
 
-I intend to find out more about those EU regulations, national gratifications and reasonings behind it in the next few months and to report here on my findings. 
+I intend to find out more about those EU regulations, national gratifications and the reasoning behind it in the next few months and to report here on my findings. 
 
 For the moment my way of involving more people in the subject matter consists of building the ISK Lab, doing experiments, telling people about it during the exhibition of the BHA6 Final projects on April 2nd 2019 and at that occasion ask people to think about the choices I have with regards to the CRISPR Cas9 experiment and vote:
 
