@@ -9,7 +9,7 @@ title: Biohack Academy 2019
 “Resistence is fertile”: this was the title of my final project’s midterm presentation. 
 Surprised by the complete lack of empathy for the [seedlings]( 
 https://www.space.com/43012-china-cotton-seed-moon-far-side-chang-e4.html)
-sent to the backside of the moon by China’s Chang'e 4 lander perishing there from cold a few hours after they sprouted …. 
+sent to the backside of the moon by China’s Chang'e 4 lander, perishing there from cold a few hours after they sprouted …. 
 
 
 ![](/images/01%20cotton%20seedlings%20sprouted%20on%20the%20moon%20in%20soil%20from%20earth%20%2015%20jan%202019.jpg "Seedling")
@@ -19,7 +19,7 @@ sent to the backside of the moon by China’s Chang'e 4 lander perishing there f
 ![](/images/02%20Wellerstein-Laika.jpg "Laika" )
 
 …  I wanted to take a closer look into the distance humans apparantly perceive between themselves and other biological agents. 
-Since “having brains” seemed to be a key factor for that perceived distance and hence for the level of empathy towards other biological agents, I thought showing “brain-like” activity in otherwise thought-off brainless agents  - like for instance iceberg lettuce - perhaps could change the perceived distance and make people feel more related to for instance iceberg lettuce ….
+Since “having brains” seemed to be a key factor for that perceived distance and hence for the level of empathy towards those other biological agents, I thought showing “brain-like” activity in thought-off "brainless" entities  - like for instance iceberg lettuce - perhaps could change the perceived distance and make people feel more related to for instance iceberg lettuce ….
  
 ![](/images/03%20IcebergLettuce.png "Lettuce" )
 
@@ -27,12 +27,12 @@ Since “having brains” seemed to be a key factor for that perceived distance 
  
 ![](/images/04%20Human%20brains.jpg "Brains" )
 
-A common way of measuring brain activity being to make an EEG, my plan was to hook up iceberg lettuce to an EEG device and compare potential difference under several test conditions (neutral – sound of cutting iceberg lettuce – video of someone eating iceberg lettuce), comparable to doing EEG experiments with humans.
+A common way of measuring brain activity being to make an EEG, my plan was to hook up iceberg lettuce to an EEG device and compare potential difference under changing test conditions (neutral environment – sound of cutting iceberg lettuce – video of someone eating iceberg lettuce), comparable to doing EEG experiments with humans.
  
 
 ![](/images/05%20RLG%20P300%20experiment.jpg "EEG" )
 
-There were still some experimental design issues to be solved, but having built EEG-based BCI systems, I was sure I would know how to do this and presented my Resistence is fertile  project at midterm:
+There were still some experimental design issues to be solved, but having built EEG-based BCI systems before, I was sure I would know how to do this and presented my Resistence is fertile  project at midterm:
 
 ![](/images/06%20resistence%20is%20futile%20v2.jpg "Futile" )
 
@@ -40,10 +40,10 @@ And then, while presenting it, I realized I indeed already knew how to do this! 
 
 ## Final project version 2.0: Inger’s Kitchen Sink Lab
 
-Project description: 
+### Project description: 
 A prototypical Kitchen Sink Bio Lab for both biological experiments and - in parallel -  the development of  ideas about the technical, legal and ethical questions involved in biological experiments (including genetically modification of the human genome), reformulated  as “Kan ik het”, “Mag ik het” and “Wil ik het”.
 
-Context:
+### Context:
 While the WHO and other national and international organizations are discussing standards for governance of intervention on the human genome, November 2018 [Dr. He Jiankui](https://en.wikipedia.org/wiki/He_Jiankui) (Shenzhen, China),
 claimed to have made the first genetically modified people, using CRISPR Cas9 to genetically modify the genome. 
 
@@ -57,7 +57,7 @@ Being a human being myself, I consider the subject too important to leave it to 
 
 ![](/images/GRID.png "Grid" )
 
-Practical Set-up of the Kitchen Sink Lab
+### Practical Set-up of the Kitchen Sink Lab
 Tuesday, 26th of March 2019 I claimed a space at Wetlab Waag in Amsterdam to grow my Kitchen Sink Bio Lab in. In the weeks before  I already built several devices as per the BHA device repository, amongst which a Magnetic Stirrer, (the electronics part of) an Incubator and a Centrifuge that were the first objects I placed in the IKS Lab space. 
 
 ![](/images/08%20IKS%2001.jpg "IKS" )
@@ -69,7 +69,7 @@ Sticking to that rule, in the days that followed and while doing 2 experiments (
 
 ![](/images/09%20IKS%20Lab%20combi%20pic.jpg "IKS lab" )
 
-Experiments
+### Experiments
 
 To find out what the possibilities would be of such a kitchen sink lab and what limitations I would have/ barriers I would encounter, I intended to do 2 experiments:  the [Mystery Meat Experiment](http://biohackacademy.github.io/bha6/class/5/pdf/Mystery%20Meat%20Protocol%20BHA5.pdf)
 we did in class 5 and the Crispr Cas 9 e.coli experiment as per the The Odin’s [DIY Bacterial Gene Engineering CRISPR Cas9 kit](http://www.the-odin.com/diy-crispr-kit/)  .  
@@ -106,7 +106,7 @@ For the moment my way of involving more people in the subject matter consists of
 
 ![](/images/13%20Voting%20form.png "Voting form" )
 
-Gate keepers?
+### Gate keepers?
 Citizens are supposed to know the law and in general when something is forbidden by law there is a kind of control system in place to enforce the law. For instance: kids younger than 18 are not allowed to buy alcohol. People selling alcohol are the gate keepers and have an obligation to ask for proof of being 18+ when selling alcohol to youngsters.
 As far as doing biological experiments I found out there basically are no gate keepers when ordering from the US.  Although the DIY Bacterial Gene Engineering CRISPR Cas9 kit I ordered from The Odin was held in customs for some time, this was only (typical Dutch!) to calculate how much VAT I had to pay. Without any notice the kit itself was just dropped off at a pickup point in a second hand store a few blocks away when I was not at home. I am not sure what to think about this.
 
@@ -117,7 +117,7 @@ When ordering lab materials from Dutch companies there seems to be a gate keeper
 
 Then again, ordering from the US was no problem: I ordered a gelbox including platinum wire from [iRodeo](https://iorodeo.com/collections/gel-electrophoresis-and-imaging/products/mini-gel-electrophoresis-box?variant=12388662790) and a few days later it was handed over to my 87-year old neighbour who had not a clue what it was and for days forgot to tell me he had taken delivery of it. 
 
-##  Update: the votes are in!
+###  Update: the votes are in!
 
 ![](/images/15%20The%20votes%20are%20in%20.JPG "Votes are in" )
 
@@ -132,7 +132,7 @@ Also one person noted she thinks I already did and one person added I should do 
 Which - in case I decide to do it - I surely will do.
 I will keep you posted!
 
-##  Week 6 to Week 9 (still to be documented)
+##  Documentation Week 6 to Week 9 (still to be done)
 
 ![](/images/Combi%20Left%20and%20Right.jpg "DNA" )
 
