@@ -9,7 +9,8 @@ I came in 10 weeks ago knowing next to nothing about bacteria, moulds, genes, do
 10 weeks later I feel confident to call myself a biohacker.
 As far as BHA6 is concerned: that's all folks!
 But I surely will continue to biohack and report on my findings.
-Thanks, Candyce, Peter and Mischa and last but not least: Roland! I had a great time!
+Thanks, Candyce, Peter and Mischa and last but not least: Roland! I had a great time!  
+
 ![](/images/Groepsfoto_middel.jpg "Groepsfoto" )
 
 
