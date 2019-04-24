@@ -73,14 +73,20 @@ Experiments
 
 To find out what the possibilities would be of such a kitchen sink lab and what limitations I would have/ barriers I would encounter, I intended to do 2 experiments:  the [Mystery Meat Experiment](http://biohackacademy.github.io/bha6/class/5/pdf/Mystery%20Meat%20Protocol%20BHA5.pdf)
 we did in class 5 and the Crispr Cas 9 e.coli experiment as per the The Odin’s [DIY Bacterial Gene Engineering CRISPR Cas9 kit](http://www.the-odin.com/diy-crispr-kit/)  .  
-I choose the first experiment  because being a hardcore vegetarian I really would like my Kitchen Sink Lab to be equiped for PCR tests to find out whether or not the vegetarian bamischijf at Smullers contains meat traces of the frikandel fried in the same oil a minute before. 
+I choose the first experiment  because being a hardcore vegetarian I really would like my Kitchen Sink Lab to be equiped for PCR tests to find out whether or not the vegetarian bamischijf at Smullers contains meat traces of the frikandel fried in the same oil a minute before.
+
+![](/images/Bamischijfje.jpg "Bamischijf" )
 The same for the HEMA vegetarian sauzijzenbroodje, in store stored next to the non-vegetarian version of it, both frequently consumed by me on my way home from Amsterdam. 
+
+![](/images/Saucijzenbroodje.jpg "Saucijzenbroodje" )
+
 I also choose this experiment because a lot of lab procedures and lab skills are involved that I wanted  to practise. 
 Most important take-away from this part of the project: lots of consumables (primers, DNA loading dye, agarose) and small lab items (erlenmeyers, safety goggles, pipettes) are needed for a functional biolab. More importantly: it might be that some chemicals are too dangerous to be used in a kitchen sink lab (in this case: SYBR safe to colour the agarose gel is really toxic!).
 
 ![](/images/10%20Mystery%20Meat%20combi.jpg "Meat combi" )
 
 For the second experiment I ordered The Odin’s [DIY Bacterial Gene Engineering CRISPR Cas9 kit](http://www.the-odin.com/diy-crispr-kit/) . Knowing that there is strict European regulation about  genetic editing of organisms, prohibiting to do the CRISPR Cas9 e.coli experiment in Waag’s Wetlab, my particular interest here was to find out exactly which actions in the protocol are not permitted, why these are not permitted and how this is controlled (possibly leading to minor disobedient behaviour in the IKS Lab once it would be up and running), all aimed at getting to know more about genetics, genetic manipulation, genetic manipulation on the human germline  and “standards for governance of intervention on the human genome”.
+
 
 After I received the package for the CRISPR Cas9 e.coli experiment (not opened by customs; see Gate Keepers) I took it to my prototypical Kitchen Sink Lab at Waag, opened the package, and did everything that in the [manual](http://www.the-odin.com/crispr-bacterial-guide/) was labeled as Preparation,  all steps being legal and allowed according to both Waag’s safety officer Per Staugaard and our Biohack instructor Roland:
 •	Make LB agar plates 
