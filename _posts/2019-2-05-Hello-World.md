@@ -27,7 +27,7 @@ Since “having brains” seemed to be a key factor for that perceived distance 
  
 ![](/images/04%20Human%20brains.jpg "Brains" )
 
-A common way of measuring brain activity being making an EEG, my plan was to hook up iceberg lettuce to an EEG device and compare potential difference under several test conditions (neutral – sound of cutting iceberg lettuce – video of someone eating iceberg lettuce), comparable to doing EEG experiments with humans.
+A common way of measuring brain activity being to make an EEG, my plan was to hook up iceberg lettuce to an EEG device and compare potential difference under several test conditions (neutral – sound of cutting iceberg lettuce – video of someone eating iceberg lettuce), comparable to doing EEG experiments with humans.
  
 
 ![](/images/05%20RLG%20P300%20experiment.jpg "EEG" )
