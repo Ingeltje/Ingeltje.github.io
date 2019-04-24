@@ -41,7 +41,7 @@ And then, while presenting it, I realized I indeed already knew how to do this! 
 ## Final Project version 2.0: Inger’s Kitchen Sink Lab
 
 ### Project description: 
-A prototypical Kitchen Sink Bio Lab for both biological experiments and - in parallel -  the development of  ideas about the technical, legal and ethical questions involved in biological experiments (including genetically modification of the human genome), reformulated  as “Kan ik het”, “Mag ik het” and “Wil ik het”.
+Inger's Kitchen Sink Lab consists of a prototypical kitchen sink bio lab for both biological experiments and - in parallel -  the development of  ideas about the technical, legal and ethical questions involved in biological experiments (including genetically modification of the human genome), reformulated  as “Kan ik het”, “Mag ik het” and “Wil ik het”.
 
 ### Context:
 While the WHO and other national and international organizations are discussing standards for governance of intervention on the human genome, November 2018 [Dr. He Jiankui](https://en.wikipedia.org/wiki/He_Jiankui) (Shenzhen, China),
