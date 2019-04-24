@@ -38,7 +38,7 @@ There were still some experimental design issues to be solved, but having built 
 
 And then, while presenting it, I realized I indeed already knew how to do this! That was not why I joined Biohack Academy! Lucky for me Roland sympathized with my plan to completely change subject, so what follows is my Final Project version 2.0.
 
-## Final project version 2.0: Inger’s Kitchen Sink Lab
+## Final Project version 2.0: Inger’s Kitchen Sink Lab
 
 ### Project description: 
 A prototypical Kitchen Sink Bio Lab for both biological experiments and - in parallel -  the development of  ideas about the technical, legal and ethical questions involved in biological experiments (including genetically modification of the human genome), reformulated  as “Kan ik het”, “Mag ik het” and “Wil ik het”.
