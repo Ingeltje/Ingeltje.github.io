@@ -93,6 +93,8 @@ After I received the package for the CRISPR Cas9 e.coli experiment (not opened b
 - Make LB agar plates 
 - Streak out e. coli bacteria onto LB Agar plate 
 - Put the plates in an incubator for the bacteria to grow (easiest to just let it sit overnight)
+
+![](/images/11%20Odin%20kit%20combi.jpg "Odin experiment combi" )
 About the next section in the manual (“DNA transformation and CRISPR experiment”) both Per and Roland told me EU regulation prohibits to perform step 5 (the “heatshock”) in Waag's Wetlab. 
 
 ![](/images/12%20Heatshock%20in%20step%205.png "heatshock" )
