@@ -1,11 +1,8 @@
-
 ---
-layout: post
-title: Final Project
+layout: page
+title: About
 permalink: /Final Project/
 ---
-
-
 
 ##  FINAL PROJECT 
 
