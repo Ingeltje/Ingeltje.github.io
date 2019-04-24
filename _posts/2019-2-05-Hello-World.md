@@ -24,7 +24,7 @@ Pictures of the exhibition can be viewed [here](https://www.flickr.com/photos/wa
  
 
 
-##  Documentation Week 6 to Week 9 (still to be done)
+##  Week 6 to Week 9 (still to be done)
 
 ![](/images/Combi%20Left%20and%20Right.jpg "DNA" )
 
