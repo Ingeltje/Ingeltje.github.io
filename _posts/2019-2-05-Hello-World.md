@@ -19,7 +19,8 @@ Thanks, Candyce, Peter and Mischa and last but not least: Roland! I had a great 
 This week we finished our Final Projects and prepared for the online presentation to our co-students and an exhibition at Waag for other people interested in what we did during the past 10 weeks as newbe biohackers.  
 I documented my Final Project [here](https://ingeltje.github.io/Final%20Project/).  
 The online presentations of the projects were recorded and can be watched on the [Vimeo channel](https://vimeo.com/328160971), my presentation starting just after 01:24:00.  
-Pictures of the exhibition can be viewed [here](https://www.flickr.com/photos/waagsociety/albums/72157690753292133).  
+Pictures of the exhibition can be viewed [here](https://www.flickr.com/photos/waagsociety/albums/72157690753292133).    
+
 ![](/images/IKS%20lab.jpg "IKS lab presentation" )
  
 
