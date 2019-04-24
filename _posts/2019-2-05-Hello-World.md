@@ -76,7 +76,7 @@ we did in class 5 and the Crispr Cas 9 e.coli experiment as per the The Odin’s
 I choose the first experiment  because being a hardcore vegetarian I really would like my Kitchen Sink Lab to be equiped for PCR tests to find out whether or not the vegetarian bamischijf at Smullers contains meat traces of the frikandel fried in the same oil a minute before.
 
 ![](/images/Bamischijfje.jpg "Bamischijf" )
-The same for the HEMA vegetarian sauzijzenbroodje, in store stored next to the non-vegetarian version of it, both frequently consumed by me on my way home from Amsterdam. 
+The same for the HEMA vegetarian sauzijzenbroodje, in store stored next to the non-vegetarian version of it, both HEMA's vegetarian saucijzenbroodje and Smullers vegetarian bamischijf frequently consumed by me on my way home from Waag Amsterdam. 
 
 ![](/images/Saucijzenbroodje.jpg "Saucijzenbroodje" )
 
@@ -96,7 +96,7 @@ After I received the package for the CRISPR Cas9 e.coli experiment (not opened b
 ![](/images/BoxOdin.jpg "Box Odin" )
 
 
-Because both Per and Roland told me by EU regulation it is not allowed to perform step 5 (the “heatshock”)  in the manual’s next section  “DNA transformation and CRISPR experiment” I stopped the experiment. 
+Because both Per and Roland told me by EU regulation it is not allowed to perform step 5 (the “heatshock”)  in the manual’s next section  “DNA transformation and CRISPR experiment” I stopped the experiment here. 
 
 ![](/images/12%20Heatshock%20in%20step%205.png "hetshock" )
 
