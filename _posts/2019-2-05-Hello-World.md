@@ -7,9 +7,9 @@ title: Biohack Academy 2019
 ##  FINAL PROJECT 
 
 “Resistence is fertile”: this was the title of my final project’s midterm presentation. 
-Surprised by the complete lack of empathy for the [seedlings]( 
+Surprised by the complete lack of empathy for the [seedling]( 
 https://www.space.com/43012-china-cotton-seed-moon-far-side-chang-e4.html)
-sent to the backside of the moon by China’s Chang'e 4 lander, perishing there from cold a few hours after they sprouted …. 
+sent to the backside of the moon by China’s Chang'e 4 lander, perishing there from cold a few hours after it sprouted …. 
 
 
 ![](/images/01%20cotton%20seedlings%20sprouted%20on%20the%20moon%20in%20soil%20from%20earth%20%2015%20jan%202019.jpg "Seedling")
