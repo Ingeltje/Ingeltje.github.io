@@ -3,23 +3,24 @@ layout: post
 title: Biohack Academy 2019 
 
 ---
+##  Week 10+
 
-##  Documentation Week 10
+I came in 10 weeks ago knowing next to nothing about bacteria, moulds, genes, doing experiments in a biolab and so on.
+10 weeks later I feel confident to call myself a biohacker.
+As far as BHA6 is concerned: that's all folks!
+But I surely will continue to biohack and report on my findings.
+Thanks, Candyce, Peter and Mischa and last but not least: Roland! I had a great time!
+![](/images/Groepsfoto_middel.jpg "Groepsfoto" )
+
+
+##  Week 10
 
 This week we finished our Final Projects and prepared for the online presentation to our co-students and an exhibition at Waag for other people interested in what we did during the past 10 weeks as newbe biohackers. 
 I documented my Final Project [here](https://ingeltje.github.io/Final%20Project/).
 The online presentations of the projects were recorded and can be watched on the [Vimeo channel](https://vimeo.com/328160971), my presentation starting just after 01:24:00.
-Pictures of the exhibition can be viewed [here](https://www.flickr.com/photos/waagsociety/albums/72157690753292133), including this great of BHA6 Waag Amsterdam:
-
-
+Pictures of the exhibition can be viewed [here](https://www.flickr.com/photos/waagsociety/albums/72157690753292133). 
+![](/images/IKS%20lab.jpg "IKS lab presentation" )
  
-I came in 10 weeks ago really knowing next to nothing about biology, genes, doing experiments in a biolab and so on.
-10 weeks later I feel confident to call myself a biohacker.
-As far as BHA6 is concerned: that's all folks!
-But I surely will continue to report on my biohack adventures.
-Thanks, Roland, Candyce, Peter and Mischa. I had a great time!
-
-
 
 
 ##  Documentation Week 6 to Week 9 (still to be done)
