@@ -93,8 +93,8 @@ After I received the package for the CRISPR Cas9 e.coli experiment (not opened b
 •	Streak out e. coli bacteria onto LB Agar plate 
 •	Put the plates in an incubator for the bacteria to grow (easiest to just let it sit overnight)
 
+![](/images/BoxOdin.jpg "Box Odin" )
 
-![](/images/11%20Odin%20kit%20combi.jpg "Odin kit" )
 
 Because both Per and Roland told me by EU regulation it is not allowed to perform step 5 (the “heatshock”)  in the manual’s next section  “DNA transformation and CRISPR experiment” I stopped the experiment. 
 
