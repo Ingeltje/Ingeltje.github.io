@@ -112,7 +112,7 @@ As far as doing biological experiments I found out there basically are no gate k
 
 When ordering lab materials from Dutch companies there seems to be a gate keeper system in place though: for the DIY gelbox (needed for PCR experiments) I tried to order a platinum wire from [Sigma-Aldrich](https://www.sigmaaldrich.com/nederland.html). I couldn’t do so because I did not pass the new-customer screening (delivery address being a home address and when I tried to order through my company: my company not being registered as a life sciences lab). 
 
-Then again, ordering from the US was no problem: I ordered a gelbox including platinum wire from [iRodeo](https://iorodeo.com/collections/gel-electrophoresis-and-imaging/products/mini-gel-electrophoresis-box?variant=12388662790) and a few days later it was handed over to my 87-year old neighbour who had not a clue what it was and for days forgot to tell me he had taken delivery of it. 
+Then again, ordering from the US was no problem: I ordered a gelbox including platinum wire from [iRodeo](https://iorodeo.com/collections/gel-electrophoresis-and-imaging/products/mini-gel-electrophoresis-box?variant=12388662790) and a few days later it was handed over to my 87-year old neighbour who had not a clue what it was and for days forgot to tell me he had taken delivery of it. I am not sure what to think about this either!
 
 ###  Update: the votes are in!
 
