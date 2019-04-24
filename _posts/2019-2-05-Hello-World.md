@@ -47,11 +47,25 @@ Context:
 While the WHO and other national and international organizations are discussing standards for governance of intervention on the human genome, November 2018 [Dr. He Jiankui](https://en.wikipedia.org/wiki/He_Jiankui) (Shenzhen, China),
 claimed to have made the first genetically modified people, using CRISPR Cas9 to genetically modify the genome. 
 
-March 2017 [COGEM](https://www.cogem.net/index.cfm/en), the Dutch committee that provides scientific advice to the government on the risks to human health and the environment of the production and use of GMOs and informs the government of ethical and societal issues linked to genetic modification, published [“Ingrijpen in het DNA van de mens”](https://www.cogem.net/index.cfm/nl/publicaties/publicatie/ingrijpen-in-het-dna-van-de-mens-morele-en-maatschappelijke-implicaties-van-kiembaanmodificatie).
-
 ![](/images/07%20He_Jiankui.jpg "Dr He" )
 
+March 2017 [COGEM](https://www.cogem.net/index.cfm/en), the Dutch committee that provides scientific advice to the government on the risks to human health and the environment of the production and use of GMOs and informs the government of ethical and societal issues linked to genetic modification, published [“Ingrijpen in het DNA van de mens”](https://www.cogem.net/index.cfm/nl/publicaties/publicatie/ingrijpen-in-het-dna-van-de-mens-morele-en-maatschappelijke-implicaties-van-kiembaanmodificatie).
+
+Triggered by Dr. He’s announcement, January 2019 COGEM [updated](https://www.cogem.net/index.cfm/nl/publicaties/publicatie/update-ingrijpen-in-het-dna-van-de-mens) this publication, stating that the discussion has been accelerated and expressing concerns about the technical, legal and ethical questions that are associated with genetically modification of the human genome.
+
+Being a human being myself, I consider the subject too important to leave it to COGEM, de Gezondheidsraad, WHO or other organizations to come up with answers.  My modus operandi being that I build and do to find out and explore, I decided to start doing my own research about the blessings and dangers of genetically modification of genomes in general and the human one in particular, by building a prototypical Kitchen Sink Bio Lab and start experimenting while in parallel developing ideas about the technical, legal and ethical questions involved, reformulated  as “Kan ik het”, “Mag ik het” and “Wil ik het”, using the IKS Lab grid as a canvas.
+
+![](/images/GRID.png "Grid" )
+
+Practical Set-up of the Kitchen Sink Lab
+Tuesday, 26th of March 2019 I claimed a space at Wetlab Waag in Amsterdam to grow my Kitchen Sink Bio Lab in. In the weeks before  I already built several devices as per the BHA device repository, amongst which a Magnetic Stirrer, (the electronics part of) an Incubator and a Centrifuge that were the first objects I placed in the IKS Lab space. 
+
 ![](/images/08%20IKS%2001.jpg "IKS" )
+
+
+To keep track of what was needed in a Kitchen Sink lab apart from the devices I built myself,  I decided that nothing could enter the IKS Lab space that was not owned by me or “borrowed” from Wetlab and then photographed/ otherwise documented (for instance by printing out purchase options) for future reference.
+Sticking to that rule, in the days that followed and while doing 2 experiments (see Experiments) my IKS Lab grew step by step: 
+
 
 ![](/images/09%20IKS%20Lab%20combi%20pic.jpg "IKS lab" )
 
