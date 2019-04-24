@@ -4,7 +4,7 @@ title: Final Project
 permalink: /Final Project/
 ---
 
-##  FINAL PROJECT 
+
 
 “Resistence is fertile”: this was the title of my final project’s midterm presentation. 
 Surprised by the complete lack of empathy for the [seedling]( 
