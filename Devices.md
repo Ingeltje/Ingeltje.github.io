@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Devices 
+title: Devices
+permalink: /Devices/
 
 ---
 ##  Devices (work in progress)
