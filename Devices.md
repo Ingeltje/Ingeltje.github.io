@@ -4,7 +4,7 @@ title: Devices
 permalink: /Devices/
 
 ---
-##  Devices (work in progress)
+##  (work in progress)
 
 ![](/images/DEV%20Incubator%20Breadboarded.JPG "incubator breadboarded" )
 
