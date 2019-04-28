@@ -62,7 +62,7 @@ Tuesday, 26th of March 2019 I claimed a space at Wetlab Waag in Amsterdam to gro
 
 ![](/images/08%20IKS%2001.jpg "IKS" )
 
-"The Making Of" these devices and recommendations for future builders will later be documented [here] (https://ingeltje.github.io/Devices/).
+"The Making Of" these devices and recommendations for future builders will later be documented [here](https://ingeltje.github.io/Devices/).
 To keep track of what was needed in a Kitchen Sink lab apart from the devices I built myself,  I decided that nothing could enter the IKS Lab space that was not owned by me or “borrowed” from Wetlab and then photographed/ otherwise documented (for instance by printing out purchase options) for future reference.
 Sticking to that rule, in the days that followed and while doing 2 experiments (see Experiments) my IKS Lab grew step by step: 
 
