@@ -58,11 +58,11 @@ Being a human being myself, I consider the subject too important to leave it to 
 ![](/images/GRID.png "Grid" )
 
 ### Practical Set-up of the Kitchen Sink Lab
-Tuesday, 26th of March 2019 I claimed a space at Wetlab Waag in Amsterdam to grow my Kitchen Sink Bio Lab in. In the weeks before, I built several devices (documented [here](https://github.com/Ingeltje/Ingeltje.github.io/blob/master/_posts/Devices.md)) as per the [BHA device repository](https://github.com/BioHackAcademy), amongst which the Magnetic Stirrer, (the electronics part of) the Incubator and the Centrifuge that were the first objects I placed in the IKS Lab space. 
+Tuesday, 26th of March 2019 I claimed a space at Wetlab Waag in Amsterdam to grow my Kitchen Sink Bio Lab in. In the weeks before, I built several devices as per the [BHA device repository](https://github.com/BioHackAcademy), amongst which the Magnetic Stirrer, (the electronics part of) the Incubator and the Centrifuge that were the first objects I placed in the IKS Lab space. 
 
 ![](/images/08%20IKS%2001.jpg "IKS" )
 
-
+"The Making Of" these devices and recommendations for future builders will later be documented [here](https://github.com/Ingeltje/Ingeltje.github.io/blob/master/Devices.md).
 To keep track of what was needed in a Kitchen Sink lab apart from the devices I built myself,  I decided that nothing could enter the IKS Lab space that was not owned by me or “borrowed” from Wetlab and then photographed/ otherwise documented (for instance by printing out purchase options) for future reference.
 Sticking to that rule, in the days that followed and while doing 2 experiments (see Experiments) my IKS Lab grew step by step: 
 
