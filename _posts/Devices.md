@@ -3,7 +3,7 @@ layout: page
 title: Devices 
 
 ---
-##  Devices
+##  Devices (work in progress)
 
 ![](/images/DEV%20Incubator%20Breadboarded.JPG "incubator breadboarded" )
 
