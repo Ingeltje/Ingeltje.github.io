@@ -85,6 +85,10 @@ Most important take-away from this part of the project: apart from the BHA DIY d
 
 ![](/images/10%20Mystery%20Meat%20combi.jpg "Meat combi" )
 
+Test result: it looks like there was no meat (= no traces of DNA of the meat supplying animals included in the master mix) in lane 2 and 4, being the lanes for the two vegetarian snacks from Smullers and HEMA. From a vegetarian perspective these snacks seems to be "safe" to eat although from a health perspective it might be wise to limit comsumption as much as possible!  
+
+![]/images/Gel%20result%20plus%20tekst%20en%20numbers.jpg "Results" )
+
 For the second experiment I ordered The Odin’s [DIY Bacterial Gene Engineering CRISPR Cas9 kit](http://www.the-odin.com/diy-crispr-kit/) . Knowing that there is strict European regulation about  genetic editing of organisms, prohibiting to do the CRISPR Cas9 e.coli experiment in Waag’s Wetlab, my particular interest here was to find out exactly which actions in the protocol are not permitted, why these are not permitted and how this is controlled (possibly leading to minor disobedient behaviour in the IKS Lab once it would be up and running), all aimed at getting to know more about genetics, genetic manipulation, genetic manipulation on the human germline  and “standards for governance of intervention on the human genome”.
 
 ![](/images/BoxOdin.jpg "Box Odin" )
