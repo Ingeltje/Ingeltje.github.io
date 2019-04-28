@@ -87,7 +87,7 @@ Most important take-away from this part of the project: apart from the BHA DIY d
 
 Interpretation of the test result: it looks like there was no meat (= no traces of DNA of the meat supplying animals included in the master mix) in lane 2 and 4, being the lanes for the two vegetarian snacks from Smullers and HEMA.     
 
-![]/images/Gel%20result%20plus%20tekst%20en%20numbers.jpg "Results" )  
+![](/images/Gel%20result%20plus%20tekst%20en%20numbers.jpg "Results" )  
 
 From a vegetarian perspective these snacks seems to be "safe" to eat although from a health perspective it might be wise to limit comsumption as much as possible!
 
