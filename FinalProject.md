@@ -89,7 +89,7 @@ Interpretation of the test result: it looks like there was no meat (= no traces 
 
 ![](/images/Gel%20result%20plus%20tekst%20en%20numbers.jpg "Results" )  
 
-From a vegetarian perspective these snacks seems to be "safe" to eat although from a health perspective it might be wise to limit comsumption as much as possible!
+From a vegetarian perspective these snacks seems to be "safe" to eat. From a health perspective I guess it might be wise though to limit consumption of these snacks!
 
 For the second experiment I ordered The Odin’s [DIY Bacterial Gene Engineering CRISPR Cas9 kit](http://www.the-odin.com/diy-crispr-kit/) . Knowing that there is strict European regulation about  genetic editing of organisms, prohibiting to do the CRISPR Cas9 e.coli experiment in Waag’s Wetlab, my particular interest here was to find out exactly which actions in the protocol are not permitted, why these are not permitted and how this is controlled (possibly leading to minor disobedient behaviour in the IKS Lab once it would be up and running), all aimed at getting to know more about genetics, genetic manipulation, genetic manipulation on the human germline  and “standards for governance of intervention on the human genome”.
 
