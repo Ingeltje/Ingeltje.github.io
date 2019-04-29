@@ -20,7 +20,7 @@ Combination cutfile for centrifuge, thermocycler, magnetic stirrer and webcam sp
 
 ![](/images/DEV%20Combisheet%20in%20Inkscape.jpg "combi cutfile" )
 
-The result:  
+The result, including workflow to sort things out (= make print-outs of cutfiles per device and place lasercut pieces on top of it):
 
 ![](/images/DEV%20Lasercut%20parts%20klein.jpg "Lasercut parts" )
 
