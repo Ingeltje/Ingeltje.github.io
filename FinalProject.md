@@ -14,7 +14,7 @@ sent to the backside of the moon by China’s Chang'e 4 lander, perishing there 
 
 ![](/images/01%20cotton%20seedlings%20sprouted%20on%20the%20moon%20in%20soil%20from%20earth%20%2015%20jan%202019.jpg "Seedling")
 
-…. as opposed to the commotion there was in the 50s about the stray dog Laika, sent into orbit around Earth by the Russians and dying in Spoetnik 2 after 7 hours from heat and stress ….
+…. as opposed to the commotion there was in the 50s about the stray dog [Laika](https://en.wikipedia.org/wiki/Laika), sent into orbit around Earth by the Russians and dying from heat and stress in Spoetnik 2 in less than [7 hours](http://adsabs.harvard.edu/abs/2002iaf..confE.288M)   ….
 
 ![](/images/02%20Wellerstein-Laika.jpg "Laika" )
 
