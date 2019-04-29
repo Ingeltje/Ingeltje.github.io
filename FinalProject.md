@@ -83,7 +83,7 @@ The same for the HEMA vegetarian sauzijzenbroodje, in store stored next to the n
 I also choose this experiment because a lot of lab procedures and lab skills are involved that I wanted  to practise. 
 Most important take-away from this part of the project: apart from the BHA DIY devices like the magnetic stirrer, lots of other equipment (balance, vortexer, microwave), consumables (primers, DNA loading dye, agarose) and small lab items (erlenmeyers, safety goggles, pipettes) are needed for a functional biolab. More importantly: it might be that some chemicals are too dangerous to be used in a kitchen sink lab (in this case: SYBR safe to colour the agarose gel is really toxic!).
 
-![](images/Mystery%20Meat%20combi2.jpg "Meatcombi2" )  
+![](/images/Mystery%20Meat%20combi2.jpg "Meat combi2" )
 
 Interpretation of the test result: it looks like there was no meat (= no traces of DNA of the meat supplying animals included in the master mix) in lane 2 and 4, being the lanes for the two vegetarian snacks from Smullers and HEMA.     
 
